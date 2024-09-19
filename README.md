@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jaki-github
+#  👋 Hi, I’m Jaki
+
 - 👀 I’m interested in coding and under stuff!
 - 🌱 I’m currently learning React, Typescript, C#.  
 - 💻 What coding languages ​​I know right now: Lua, Vuetifyjs, JS, HTML, CSS. 
