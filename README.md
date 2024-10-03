@@ -1,4 +1,4 @@
-#  👋 Hi, I’m Jaki
+#  👋 Hi, I’m Jack AKA Jaki
 
 - 👀 I’m interested in coding and under stuff!
 - 🌱 I’m currently learning React, Typescript, C#.  
