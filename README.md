@@ -1,16 +1,17 @@
 # 👋 Hi, I’m Jack (aka Jaki)  
 
 ## 🚀 About Me  
-- 👀 I have a strong interest in coding and technology.  
-- 🌱 Currently learning **React, TypeScript, and C#** to expand my skill set.  
-- 🛠️ Proficient in **Lua, Vue.js, JavaScript, HTML, and CSS**.  
-- 🎮 Started my coding journey two years ago with Lua.  
+- 🎮 **FiveM Lua Developer** – Specializing in backend scripting for FiveM servers.  
+- 💻 Passionate about creating efficient and well-structured server scripts.  
+- 🖥️ Occasionally work on **UI development** using **Vue.js, HTML, and CSS**.  
+- 🌱 Currently expanding my skills with **React, TypeScript, and C#**.  
+- 🔧 Started my coding journey two years ago, primarily with Lua.  
 
 ## 📫 Get in Touch  
-- 💬 The best way to reach me is on **Discord: jaki__**.  
-- 🌍 Always open to collaborating on interesting projects!  
+- 💬 Reach me on **Discord: jaki__**.  
+- 🌍 Always open to collaborating on cool FiveM projects!  
 
-⚡ **Fun Fact:** I'm 16 years old and always eager to learn more about software development!  
+⚡ **Fun Fact:** I’m 16 years old and always pushing myself to learn more about development!  
 
 <!---
 jaki-github/jaki-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
