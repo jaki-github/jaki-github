@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Jack (aka Jaki)  
 
-💻 **Aspiring Developer | Passionate About Coding**  
-
 ## 🚀 About Me  
 - 👀 I have a strong interest in coding and technology.  
 - 🌱 Currently learning **React, TypeScript, and C#** to expand my skill set.  
