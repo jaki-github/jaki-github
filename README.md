@@ -1,10 +1,18 @@
-#  👋 Hi, I’m Jack AKA Jaki
+# 👋 Hi, I’m Jack (aka Jaki)  
 
-- 👀 I’m interested in coding and under stuff!
-- 🌱 I’m currently learning React, Typescript, C#.  
-- 💻 What coding languages ​​I know right now: Lua, Vue, JS, HTML, CSS
-- 📫 You can reach me most on discord. My discord tag is **jaki__**
-- ⚡ Fun fact: I am 16 years old. And there is not much to know about me. I learned to code 2 years ago and I'm started with Lua! 
+💻 **Aspiring Developer | Passionate About Coding**  
+
+## 🚀 About Me  
+- 👀 I have a strong interest in coding and technology.  
+- 🌱 Currently learning **React, TypeScript, and C#** to expand my skill set.  
+- 🛠️ Proficient in **Lua, Vue.js, JavaScript, HTML, and CSS**.  
+- 🎮 Started my coding journey two years ago with Lua.  
+
+## 📫 Get in Touch  
+- 💬 The best way to reach me is on **Discord: jaki__**.  
+- 🌍 Always open to collaborating on interesting projects!  
+
+⚡ **Fun Fact:** I'm 16 years old and always eager to learn more about software development!  
 
 <!---
 jaki-github/jaki-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
