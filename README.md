@@ -11,8 +11,6 @@
 - 💬 Reach me on **Discord: jaki__**.  
 - 🌍 Always open to collaborating on cool FiveM projects!  
 
-⚡ **Fun Fact:** I’m 16 years old and always pushing myself to learn more about development!  
-
 <!---
 jaki-github/jaki-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
