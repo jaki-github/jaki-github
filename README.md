@@ -3,8 +3,8 @@
 ## 🚀 About Me  
 - 🎮 **FiveM Lua Developer** – Specializing in backend scripting for FiveM servers.  
 - 💻 Passionate about creating efficient and well-structured server scripts.  
-- 🖥️ Occasionally work on **UI development** using **Vue.js, HTML, and CSS**.  
-- 🌱 Currently expanding my skills with **React, TypeScript, and C#**.  
+- 🖥️ Occasionally work on **UI development** using **Vue.js, React, TS, HTML, CSS**.  
+- 🌱 Currently expanding my skills with **C#**.  
 - 🔧 Started my coding journey two years ago, primarily with Lua.  
 
 ## 📫 Get in Touch  
